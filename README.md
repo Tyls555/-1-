@@ -1,4 +1,4 @@
-<header>
+<劳大>
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introduction to TY
 
 _Get started using GitHub in less than an hour._
 
